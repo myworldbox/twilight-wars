@@ -1,6 +1,8 @@
 # twilightwars
 
 
+![plot](./photos/myworld.jpg)
+
 我的世界官網
 
 https://myworldbox.weebly.com
